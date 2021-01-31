@@ -1,1 +1,1 @@
-# IS 601 Team Project
+# IS 601 Git Collaboration Project
